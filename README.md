@@ -1,19 +1,5 @@
 ---
 description: Welcome to your team’s developer platform
-layout:
-  width: wide
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # Developer Platform
